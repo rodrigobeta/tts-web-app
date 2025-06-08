@@ -133,9 +133,7 @@ Este proyecto está basado en la implementación de FastSpeech2 por [ming024](ht
 
 ## 📧 Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@ejemplo.com
-
-Link del Proyecto: [https://github.com/tu-usuario/tts-web-app](https://github.com/tu-usuario/tts-web-app)
+Link del Proyecto: [https://github.com/rodrigobeta/tts-web-app](https://github.com/tu-usuario/tts-web-app)
 
 ## ⭐ Agradecimientos
 
